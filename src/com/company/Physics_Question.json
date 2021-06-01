@@ -1,0 +1,38 @@
+[
+  {
+    "Que": "Young's modulus is the property of\n",
+    "Q_type" : 2,
+    "op1": "Gas only",
+    "op2": "Both Solid and Liquid",
+    "op3": "Liquid only",
+    "op4": "Solid only",
+    "ans" : ["Solid only","Gas only"]
+  },
+  {
+    "Que": "When a planet orbits the Sun, one of the foci of the elliptical orbit is",
+    "Q_type" : 1,
+    "op1": "The axis",
+    "op2": "The perihelion",
+    "op3": "The centre",
+    "op4": "The Sun",
+    "ans": ["The Sun"]
+  },
+  {
+    "Que" : "What are two types of interference of light ",
+    "Q_type": 2,
+    "op1" : "division of frequency",
+    "op2" : "division of amplitude",
+    "op3" : "division of wave front",
+    "op4" : "division of velocity of wave",
+    "ans" : ["division of amplitude","division of wave front"]
+  },
+  {
+    "Que" : "Snell's law is ",
+    "Q_type": 1,
+    "op1" : "u = sin(i)/sin(r)",
+    "op2" : "u = sin(r)/sin(i)",
+    "op3" : "u = sin(r)*sin(i)",
+    "op4" : "u = sin(r)+sin(i)",
+    "ans" : ["u = sin(i)/sin(r)"]
+  }
+]

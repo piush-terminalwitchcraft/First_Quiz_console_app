@@ -1,0 +1,38 @@
+[
+  {
+    "Que": "What is the solution of x^2-1 = 0?",
+    "Q_type" : 2,
+    "op1": "-1",
+    "op2": "1",
+    "op3": "i",
+    "op4": "-i",
+    "ans" : ["1","-1"]
+  },
+  {
+    "Que": "What is the product of a complex number(a + ib) and its conjugate?",
+    "Q_type" : 1,
+    "op1": "real numbers",
+    "op2": "Imaginary numbers",
+    "op3": "a^2 + b^2",
+    "op4": "a^2 - i*b^2",
+    "ans": ["real numbers","a^2 + b^2"]
+  },
+  {
+    "Que": "Find the differentiation of x^2 + log(x) ",
+    "Q_type" : 1,
+    "op1": "2x +1/x",
+    "op2": "x^2 + 1",
+    "op3": "2x^2 +1/x",
+    "op4": "x^3/3 +x(log(x)-1)",
+    "ans": ["2x +1/x"]
+  },
+  {
+    "Que": "Which of the following is correct?",
+    "Q_type" : 4,
+    "op1": "x^k-1 = 1 + x + x^2 + x^3 ...",
+    "op2": "e^x = 1 + x + x^2/2! + x^3/3!...",
+    "op3": "sin(x) = x - x^3/3! + x^5/5!...",
+    "op4": "cos(x) = 1 -x^2/2! + x^2/4!...",
+    "ans": ["x^k-1 = 1 + x + x^2 + x^3 ...","e^x = 1 + x + x^2/2! + x^3/3!...","sin(x) = x - x^3/3! + x^5/5!...","cos(x) = 1 -x^2/2! + x^2/4!..."]
+  }
+]

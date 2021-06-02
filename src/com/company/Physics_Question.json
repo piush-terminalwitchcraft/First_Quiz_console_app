@@ -1,12 +1,12 @@
 [
   {
     "Que": "Young's modulus is the property of\n",
-    "Q_type" : 2,
+    "Q_type" : 1,
     "op1": "Gas only",
     "op2": "Both Solid and Liquid",
     "op3": "Liquid only",
     "op4": "Solid only",
-    "ans" : ["Solid only","Gas only"]
+    "ans" : ["Solid only"]
   },
   {
     "Que": "When a planet orbits the Sun, one of the foci of the elliptical orbit is",
